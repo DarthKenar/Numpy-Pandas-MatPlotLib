@@ -1,0 +1,1 @@
+waste from a small exercise usign numpy, pandas and matplotlib
