@@ -14,6 +14,5 @@ print(data_full)
 
 data_visualize = pd.DataFrame(data = data_full,columns=["a - Random Line, normal method","b - Random Variation (a) multiply(1-5)","c - Random Variation (b) multiply(-5,+5)"])
 
-pd.DataFrame()
 data_visualize.plot()
 plt.show()
